@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="min-h-screen bg-[#090909] text-white">
       {/* <Navbar /> */}
+      {/* <Navbar /> */}
       <div className="container-fluid">
         <div className="row">
           <div className="col-lg-4 col-xl-3">
